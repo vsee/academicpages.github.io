@@ -24,3 +24,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
 end
+
+# include a javascript runtime
+gem "therubyracer"
