@@ -2,7 +2,7 @@
 title: "Parallel Dynamic Binary Translator for Efficient Multi-Core Simulation"
 collection: publications
 permalink: /publication/2012_IJPP_parallel_dbt
-excerpt: 'Blurb.'
+excerpt: 'Conference extension of the 2011 SAMOS paper on multi-core system simulation using just-in-time dynamic binary translation.'
 date: 2012-09-01
 venue: 'IJPP'
 citation: 'Oscar Almer, Igor Bo&#776;hm, Tobias J.K. Edler von Koch, 
