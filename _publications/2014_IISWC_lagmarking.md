@@ -14,7 +14,7 @@ Symposium on Workload Characterization, Raleigh, North Carolina,
 USA, October 2014.'
 ---
 
-![Best Paper Award]({{ site.url }}{{ site.baseurl }}/files/assets/icon-award.png)
+![Best Paper Award]({{ site.url }}{{ site.baseurl }}/images/icon-award.png)
 **Best Paper Award**
 
 # Abstract
@@ -49,10 +49,10 @@ running the Cpu at the highest frequency.
 
 # Resources
 
-[![Paper]({{ site.url }}{{ site.baseurl }}/files/assets/icon-pdf.png)]({{ site.url }}{{ site.baseurl }}/files/papers/2014_IISWC_lagmarking.pdf)
+[![Paper]({{ site.url }}{{ site.baseurl }}/images/icon-pdf.png)]({{ site.url }}{{ site.baseurl }}/files/papers/2014_IISWC_lagmarking.pdf)
 **Paper**
 
-[![Presentation]({{ site.url }}{{ site.baseurl }}/files/assets/icon-slides.png)]({{ site.url }}{{ site.baseurl }}/files/talks/2014_IISWC.pdf)
+[![Presentation]({{ site.url }}{{ site.baseurl }}/images/icon-slides.png)]({{ site.url }}{{ site.baseurl }}/files/talks/2014_IISWC.pdf)
 **Talk**
 
 **Video Resource from Talk - Sample Workload**

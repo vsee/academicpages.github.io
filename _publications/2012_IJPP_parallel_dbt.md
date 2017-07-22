@@ -40,5 +40,5 @@ considerations.
 
 # Resources
 
-[![Paper]({{ site.url }}{{ site.baseurl }}/files/assets/icon-pdf.png)]({{ site.url }}{{ site.baseurl }}/files/papers/2012_IJPP_dbt_multi.pdf)
+[![Paper]({{ site.url }}{{ site.baseurl }}/images/icon-pdf.png)]({{ site.url }}{{ site.baseurl }}/files/papers/2012_IJPP_dbt_multi.pdf)
 **Paper**
