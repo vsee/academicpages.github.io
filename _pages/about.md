@@ -8,4 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is me the the the VOlkre
+I am a University Teacher in the [School of Informatics](http://www.ed.ac.uk/informatics/) 
+at the [University of Edinburgh](http://www.ed.ac.uk/).
+
+# Research
+
+# Teaching
+
+# Contact
